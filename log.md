@@ -15,7 +15,7 @@ From EES6 for everyone https://es6.io/
 -   Is var Dead? What should I use?
 
 **Thoughts:**
-Nothin new but a good refresh and a couple of less known facts.
+Nothing new but a good refresh and a couple of less known facts.
 
 **Link to work:**
 Not yet.
